@@ -5,6 +5,8 @@ should_Continue = True
 usrNum_1 = 0
 usrNum_2 = 0
 
+# This is used as directions for the user.
+
 
 def help():
     print("""** Add: Takes one varible x and one varible y. Then sums the two
